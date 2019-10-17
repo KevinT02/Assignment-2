@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Assignment 1(Assignment 1.py)
+# Name:        Assignment (Assignment.py)
 # Purpose:     Create a program that includes various conecpts in the criteria.
 #
 # Author:      Kevin Tu
